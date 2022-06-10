@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Seyi
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Python and SQL for Data Science
+- 👋 Hi, I’m Seyifunmitan
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning SQL and Python in addition to my MS Excel and Power BI skills
 - 💞️ I’m looking to collaborate on everything Data Science and AI
 
 <!---
