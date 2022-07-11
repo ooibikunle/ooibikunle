@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Seyifunmitan
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL and Python in addition to my MS Excel and Power BI skills
-- 💞️ I’m looking to collaborate on everything Data Science and AI
+- 👋🏾 Hi, I’m Oluwaseyi Ibikunle, and I'm interested in everything Data, most especially Data Engineering
+- 🤹🏾‍♀️ I’m currently learning Python in addition to my Excel, Power BI and SQL skills
+- 🤝🏾 I’m looking to collaborate on everything Data
 
 <!---
 ooibikunle/ooibikunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
